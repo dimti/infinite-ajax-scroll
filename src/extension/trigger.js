@@ -8,7 +8,7 @@
  * Copyright 2014-2016 Webcreate (Jeroen Fiege)
  */
 
-var IASTriggerExtension = function(options) {
+window.IASTriggerExtension = function(options) {
   options = jQuery.extend({}, this.defaults, options);
 
   this.ias = null;

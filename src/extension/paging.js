@@ -8,7 +8,7 @@
  * Copyright 2014-2016 Webcreate (Jeroen Fiege)
  */
 
-var IASPagingExtension = function() {
+window.IASPagingExtension = function() {
   this.ias = null;
   this.pagebreaks = [[0, document.location.toString()]];
   this.lastPageNum = 1;

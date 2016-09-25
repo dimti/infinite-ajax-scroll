@@ -8,7 +8,7 @@
  * Copyright 2014-2016 Webcreate (Jeroen Fiege)
  */
 
-var IASNoneLeftExtension = function(options) {
+window.IASNoneLeftExtension = function(options) {
   options = jQuery.extend({}, this.defaults, options);
 
   this.ias = null;

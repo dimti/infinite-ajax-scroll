@@ -8,7 +8,7 @@
  * Copyright 2014-2016 Webcreate (Jeroen Fiege)
  */
 
-var IASSpinnerExtension = function(options) {
+window.IASSpinnerExtension = function(options) {
   options = jQuery.extend({}, this.defaults, options);
 
   this.ias = null;

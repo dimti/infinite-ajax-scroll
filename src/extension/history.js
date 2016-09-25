@@ -8,7 +8,7 @@
  * Copyright 2014-2016 Webcreate (Jeroen Fiege)
  */
 
-var IASHistoryExtension = function (options) {
+window.IASHistoryExtension = function (options) {
   options = jQuery.extend({}, this.defaults, options);
 
   this.ias = null;

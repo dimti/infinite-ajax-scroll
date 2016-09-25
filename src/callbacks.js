@@ -7,7 +7,7 @@
  * Copyright 2014-2016 Webcreate (Jeroen Fiege)
  */
 
-var IASCallbacks = function () {
+window.IASCallbacks = function () {
   this.list = [];
   this.fireStack = [];
   this.isFiring = false;
