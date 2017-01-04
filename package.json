@@ -1,0 +1,100 @@
+{
+  "_args": [
+    [
+      {
+        "hosted": {
+          "directUrl": "https://raw.githubusercontent.com/dimti/infinite-ajax-scroll/f2604fa7ee484fc02c694c82abf50cab8c0cefbe/package.json",
+          "gitUrl": "git://github.com/dimti/infinite-ajax-scroll.git#f2604fa7ee484fc02c694c82abf50cab8c0cefbe",
+          "httpsUrl": "git+https://github.com/dimti/infinite-ajax-scroll.git#f2604fa7ee484fc02c694c82abf50cab8c0cefbe",
+          "shortcut": "github:dimti/infinite-ajax-scroll#f2604fa7ee484fc02c694c82abf50cab8c0cefbe",
+          "ssh": "git@github.com:dimti/infinite-ajax-scroll.git#f2604fa7ee484fc02c694c82abf50cab8c0cefbe",
+          "sshUrl": "git+ssh://git@github.com/dimti/infinite-ajax-scroll.git#f2604fa7ee484fc02c694c82abf50cab8c0cefbe",
+          "type": "github"
+        },
+        "name": "jquery-ias",
+        "raw": "jquery-ias@git+https://github.com/dimti/infinite-ajax-scroll.git#f2604fa7ee484fc02c694c82abf50cab8c0cefbe",
+        "rawSpec": "git+https://github.com/dimti/infinite-ajax-scroll.git#f2604fa7ee484fc02c694c82abf50cab8c0cefbe",
+        "scope": null,
+        "spec": "git+https://github.com/dimti/infinite-ajax-scroll.git#f2604fa7ee484fc02c694c82abf50cab8c0cefbe",
+        "type": "hosted"
+      },
+      "/var/www/digitec"
+    ]
+  ],
+  "_from": "git+https://github.com/dimti/infinite-ajax-scroll.git#f2604fa7ee484fc02c694c82abf50cab8c0cefbe",
+  "_id": "jquery-ias@2.2.2",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/jquery-ias",
+  "_phantomChildren": {},
+  "_requested": {
+    "hosted": {
+      "directUrl": "https://raw.githubusercontent.com/dimti/infinite-ajax-scroll/f2604fa7ee484fc02c694c82abf50cab8c0cefbe/package.json",
+      "gitUrl": "git://github.com/dimti/infinite-ajax-scroll.git#f2604fa7ee484fc02c694c82abf50cab8c0cefbe",
+      "httpsUrl": "git+https://github.com/dimti/infinite-ajax-scroll.git#f2604fa7ee484fc02c694c82abf50cab8c0cefbe",
+      "shortcut": "github:dimti/infinite-ajax-scroll#f2604fa7ee484fc02c694c82abf50cab8c0cefbe",
+      "ssh": "git@github.com:dimti/infinite-ajax-scroll.git#f2604fa7ee484fc02c694c82abf50cab8c0cefbe",
+      "sshUrl": "git+ssh://git@github.com/dimti/infinite-ajax-scroll.git#f2604fa7ee484fc02c694c82abf50cab8c0cefbe",
+      "type": "github"
+    },
+    "name": "jquery-ias",
+    "raw": "jquery-ias@git+https://github.com/dimti/infinite-ajax-scroll.git#f2604fa7ee484fc02c694c82abf50cab8c0cefbe",
+    "rawSpec": "git+https://github.com/dimti/infinite-ajax-scroll.git#f2604fa7ee484fc02c694c82abf50cab8c0cefbe",
+    "scope": null,
+    "spec": "git+https://github.com/dimti/infinite-ajax-scroll.git#f2604fa7ee484fc02c694c82abf50cab8c0cefbe",
+    "type": "hosted"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/dimti/infinite-ajax-scroll.git#f2604fa7ee484fc02c694c82abf50cab8c0cefbe",
+  "_shasum": "6ef4952cf5ece4a5ae785452f767b1710f8be02a",
+  "_shrinkwrap": null,
+  "_spec": "jquery-ias@git+https://github.com/dimti/infinite-ajax-scroll.git#f2604fa7ee484fc02c694c82abf50cab8c0cefbe",
+  "_where": "/var/www/digitec",
+  "author": {
+    "name": "Jeroen Fiege",
+    "url": "http://webcreate.nl"
+  },
+  "bugs": {
+    "url": "http://infiniteajaxscroll.com/docs/support.html"
+  },
+  "dependencies": {
+    "jquery": ">=1.7"
+  },
+  "description": "A jQuery plugin that turns your server-side pagination into an infinite scrolling one using AJAX",
+  "devDependencies": {
+    "buster": "~0.7",
+    "grunt": "~0.4",
+    "grunt-buster": "~0.3",
+    "grunt-cli": "~0.1",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-copy": "~0.5.0",
+    "grunt-contrib-jshint": "~0.8.0",
+    "grunt-contrib-uglify": "~0.3.0",
+    "phantomjs": "~1.9"
+  },
+  "gitHead": "f2604fa7ee484fc02c694c82abf50cab8c0cefbe",
+  "homepage": "http://infiniteajaxscroll.com",
+  "keywords": [
+    "scroll",
+    "scrolling",
+    "ajax",
+    "pagination",
+    "jquery",
+    "jquery-plugin",
+    "ias"
+  ],
+  "license": "Dual-license",
+  "main": "src/jquery-ias.js",
+  "name": "jquery-ias",
+  "optionalDependencies": {},
+  "readme": "Infinite AJAX Scroll\n====================\n\nA jQuery plugin to turn your paginated pages into infinite scrolling pages with ease.\n\nDownloads, documentation and demos available at: http://infiniteajaxscroll.com/\n\n[![Build Status](https://travis-ci.org/webcreate/infinite-ajax-scroll.png?branch=master)](https://travis-ci.org/webcreate/infinite-ajax-scroll)\n\n## Licensing\n\nInfinite AJAX Scroll may be used in commercial projects and applications with the one-time purchase of a commercial license.\n\nhttp://infiniteajaxscroll.com/docs/license.html\n\nFor non-commercial, personal, or open source projects and applications, you may use Infinite AJAX Scroll under the terms of the MIT License. You may use Infinite AJAX Scroll for free.\n\n## Contributing\n\nTo contribute to Infinite AJAX Scroll please follow these instructions:\n\n* Fork the project and create a new feature branch\n* Install the development tools\n* Write the feature/bugfix\n* Write tests for the feature/bugfix\n* Run tests\n* Submit your Pull Request\n\n### Installing development tools\n\n1. Install bower components\n\n    ``` sh\n    $ bower install\n    ```\n\n2. Install npm modules\n\n    ``` sh\n    $ npm install\n    ```\n\n### Running tests\n\nTesting is done with [Busterjs](https://github.com/busterjs/buster) and [Grunt](https://github.com/gruntjs/grunt).\n\n1. Start a buster server:\n\n    ``` sh\n    $ grunt buster::server:block\n    ```\n\n2. Launch some browsers and connect to `http://localhost:1111` and capture them.\n\n3. Run tests:\n\n    ``` sh\n    $ grunt buster::test\n    ```\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/webcreate/infinite-ajax-scroll.git"
+  },
+  "title": "Infinite Ajax Scroll",
+  "version": "2.2.2"
+}
