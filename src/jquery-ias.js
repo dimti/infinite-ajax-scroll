@@ -11,6 +11,9 @@
  * Copyright 2014-2016 Webcreate (Jeroen Fiege)
  */
 
+require('./extension/spinner');
+require('./callbacks');
+
 (function($) {
 
   'use strict';
